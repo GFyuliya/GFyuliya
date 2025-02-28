@@ -9,4 +9,4 @@ SQL изучала на курсе stepik [Интерактивный трена
 
 Изучила [Основы Python](https://ru.hexlet.io/courses/python-basics) на курсе от Хекслет.
 
-          
+[Перейти к проектам](https://github.com/GFyuliya/Portfolio)
